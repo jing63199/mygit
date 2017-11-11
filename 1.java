@@ -2,3 +2,4 @@
 修改了1中的信息
 添加了变量a
 private  int a;
+sss
